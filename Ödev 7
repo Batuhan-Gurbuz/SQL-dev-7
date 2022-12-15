@@ -22,3 +22,6 @@ SELECT country_id, Count(*) FROM country
 GROUP BY country_id
 ORDER BY COUNT(*) DESC
 LIMIT 1;
+
+
+www.patika.dev
